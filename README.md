@@ -1,1 +1,1 @@
-# week7Adapt_task2
+Работа с Grid и галереей
